@@ -1,8 +1,8 @@
  # Initial thoughts
-* Project made using React + Typescript, granting type/interface support and validation (speeding up code development and avoiding type-related mistakes)
-* Error handling and loading state both implemented
-* Side menu: opening animation, dismiss modal clicking both on close icon and grey background
-* Unit testing using React @testing-library (just to try it out)
+* Project made using **React + Typescript**, granting type/interface support and validation (speeding up code development and avoiding type-related mistakes)
+* **Error handling** and **loading state** both implemented
+* **Side menu**: opening animation, dismiss modal clicking both on close icon and grey background
+* **Unit testing** using React @testing-library (just to try it out)
 # Running this project locally
 
 In the project directory, you can run:
