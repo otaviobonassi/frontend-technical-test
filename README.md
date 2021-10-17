@@ -1,6 +1,7 @@
  # About the project
 * Developed using **React + Typescript**, granting type/interface support and validation (speeding up code development and avoiding type-related mistakes)
 * Responsive (only mobile frame was provided though)
+* Opt for **React Context API** instead of Redux due to project needs (Context API implementation requires less configuration and boilerplate code than Redux. Also it offers a really good alternative to the prop drilling problem)
 * **Error handling** and **loading state** both implemented
 * **Side menu**: opening animation, dismiss modal clicking both on close icon and grey background
 * **Unit testing** using React @testing-library (just to try it out)
