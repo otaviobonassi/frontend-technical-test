@@ -13,7 +13,7 @@ export function Navbar() {
   return (
     <NavbarContainer>
       <Content>
-        <HamburgerMenu onClick={handleOpenMenu}>
+        <HamburgerMenu onClick={handleOpenMenu} data-testid="menu-opener">
           <img src={hamburgerMenu} alt="" />
         </HamburgerMenu>
       </Content>

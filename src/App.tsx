@@ -15,7 +15,7 @@ function App() {
 
   const getData = async () => {
     try {
-      const { data } = await api.get('/59f08692310000b4130e9f71/') as EventsRequest;
+      const { data } = await api.getData() as EventsRequest;
       setEvents(data);
     } catch {
       setError(true)
