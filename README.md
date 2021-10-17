@@ -1,5 +1,6 @@
  # About the project
 * Developed using **React + Typescript**, granting type/interface support and validation (speeding up code development and avoiding type-related mistakes)
+* Responsive (only mobile frame was provided though)
 * **Error handling** and **loading state** both implemented
 * **Side menu**: opening animation, dismiss modal clicking both on close icon and grey background
 * **Unit testing** using React @testing-library (just to try it out)
