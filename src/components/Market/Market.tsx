@@ -10,7 +10,7 @@ export function Market({ market }: MarketComponentProps) {
   const { betslip, setBetslip } = useContext(BetslipContext);
 
   useEffect(() => {
-    if (betslip.length) handleSelectionDeletion();
+    handleSelectionDeletion();
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [betslip])
 
@@ -26,7 +26,7 @@ export function Market({ market }: MarketComponentProps) {
   }
 
   const handleSelectionDeletion = () => {
-    const stillSelected = betslip.find(({ id }) => id === market.id)
+    const stillSelected = betslip.find(({ id }) => id === market.id);
     if (!stillSelected) setSelected({} as SelectionInterface);
   }
 
