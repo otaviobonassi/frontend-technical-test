@@ -36,11 +36,7 @@ button {
 }
 
 .loading {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-
-  img {
-    width: 40%;
-  }
+  width: 40vw;
+  margin: 0 auto;
+  max-width: 200px;
 }
