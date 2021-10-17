@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/frontend-technical-test/static/css/main.1ced2635.chunk.css",
+    "main.js": "/frontend-technical-test/static/js/main.d587878a.chunk.js",
+    "main.js.map": "/frontend-technical-test/static/js/main.d587878a.chunk.js.map",
+    "runtime-main.js": "/frontend-technical-test/static/js/runtime-main.e296215f.js",
+    "runtime-main.js.map": "/frontend-technical-test/static/js/runtime-main.e296215f.js.map",
+    "static/js/2.54a5194c.chunk.js": "/frontend-technical-test/static/js/2.54a5194c.chunk.js",
+    "static/js/2.54a5194c.chunk.js.map": "/frontend-technical-test/static/js/2.54a5194c.chunk.js.map",
+    "index.html": "/frontend-technical-test/index.html",
+    "static/css/main.1ced2635.chunk.css.map": "/frontend-technical-test/static/css/main.1ced2635.chunk.css.map",
+    "static/js/2.54a5194c.chunk.js.LICENSE.txt": "/frontend-technical-test/static/js/2.54a5194c.chunk.js.LICENSE.txt",
+    "static/media/warning.c0de3abf.png": "/frontend-technical-test/static/media/warning.c0de3abf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e296215f.js",
+    "static/js/2.54a5194c.chunk.js",
+    "static/css/main.1ced2635.chunk.css",
+    "static/js/main.d587878a.chunk.js"
+  ]
+}
